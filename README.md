@@ -1,0 +1,1 @@
+•	Performed AI risk assessment aligned with NIST AI RMF and ISO/IEC 42001. Defined the compliance roadmap for the EU AI Act by classifying AI use cases based on risk levels. Translated findings into an AI Acceptable Use Policy (AUP) and technical guardrails, including automated data masking for PII protection and Human-in-the-Loop (HITL) validation for high-risk outputs
